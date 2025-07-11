@@ -69,6 +69,14 @@
     </div>
 
     <div class="section">
+      <h2>Education</h2>
+      <p><strong>MCA (Master of Computer Applications)</strong>, Osmania University, 2009–2012</p>
+      <p><strong>B.Sc - MSCS (Maths, Statistics, Computer Science)</strong>, Osmania University, 2006–2009</p>
+      <p><strong>ITI Diesel Mechanic (Industrial Training Institute)</strong>, ITI Palasa 2005–2006</p>
+      <p><strong>Intermediate (MPC)</strong>, Prathiba Junior College, 2003–2005</p>
+      <p><strong>SSC</strong>, APSWRJC School, 2003</p>
+    </div>
+    <div class="section">
       <h2>Technical Skills</h2>
       <ul>
         <li>React Native, Xamarin.Forms, Xamarin.Android/iOS</li>
@@ -118,11 +126,6 @@
       </div>
     </div>
 
-    <div class="section">
-      <h2>Education</h2>
-      <p><strong>MCA (Master of Computer Applications)</strong>, Osmania University, 2009–2012</p>
-      <p><strong>B.Sc - MSCS (Maths, Statistics, Computer Science)</strong>, Osmania University, 2006–2009</p>
-    </div>
 
   </div>
 </body>
