@@ -49,7 +49,7 @@
 <body>
   <div class="container">
     <h1>Ranjith Kumar Nagiri</h1>
-    <p>Email: ranjithnagiri@gmail.com | Phone: +91-9390064000 | Location: Hyderabad, India</p>
+    <p>Email: <a href="ranjithnagiri@gmail.com">ranjithnagiri@gmail.com</a> | Phone: +91-9390064000 | Location: Hyderabad, India</p>
     <p>LinkedIn: <a href="https://in.linkedin.com/in/ranjith-kumar-02937450">https://in.linkedin.com/in/ranjith-kumar-02937450</a></p>
 
     <div class="section">
