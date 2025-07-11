@@ -93,19 +93,60 @@
         <p><b>June 2019 - Present</b></p>
         <p>Developed mobile applications using React Native and Xamarin.Forms, ensuring successful deployment to both iOS and Android app stores. Actively interacted with clients to gather and understand requirements, translating them into functional solutions. Led the development team as a Technical Lead, overseeing implementation, resolving issues, and ensuring adherence to timelines. Maintained a strong focus on quality, performance, and scalability while managing the end-to-end development lifecycle, including planning, coding, testing, and deployment, to deliver high-quality solutions on schedule.</p>
         <ul>
-        <li>Developed mobile applications using React Native and Xamarin.Forms</li>
-        <li>Deployed apps successfully to both iOS and Android app stores</li>
-        <li>Interacted with clients to gather and understand project requirements</li>
-        <li>Integrated CI/CD pipeline to automate build, testing, and deployment processes</li>
-        <li>Integrated the Sonar Qube for Code Quality</li>
-        <li>Led the development team as a Technical Lead</li>
-        <li>Ensured project timelines were met through effective planning and execution</li>
-        <li>Focused on delivering high-quality, scalable, and high-performance applications</li>
-        <li>Managed the entire development lifecycle: planning, coding, testing, and deployment</li>
-        <li>Best Employee of the Quarter - Q1 2020</li>
-      </ul>
+          <li>Developed mobile applications using React Native and Xamarin.Forms</li>
+          <li>Deployed apps successfully to both iOS and Android app stores</li>
+          <li>Interacted with clients to gather and understand project requirements</li>
+          <li>Integrated CI/CD pipeline to automate build, testing, and deployment processes</li>
+          <li>Integrated the Sonar Qube for Code Quality</li>
+          <li>Led the development team as a Technical Lead</li>
+          <li>Ensured project timelines were met through effective planning and execution</li>
+          <li>Focused on delivering high-quality, scalable, and high-performance applications</li>
+          <li>Managed the entire development lifecycle: planning, coding, testing, and deployment</li>
+          <li>Best Employee of the Quarter - Q1 2020</li>
+        </ul>
       </div>
+
+      <div class="project">
+        <p class="project-title"><a href="#">Comsoft It Solutions Pvt Ltd (Senior Software Engineer)</a></p>
+        <p><b>Aug 2017 – May 2019</b></p>
+        <p>Designed and developed a cross-platform mobile application using Xamarin.Forms, implementing robust Web API services backed by SQL Server. Managed the full development lifecycle, from database design and API integration to front‑end UI creation. Successfully deployed iOS and Android apps to respective stores, coordinating submissions and compliance. Integrated secure payment gateway functionality to enable in‑app transactions, ensuring reliability. Collaborated closely with stakeholders to meet strict project requirements and delivery timelines.</p>
+        <ul>
+          <li>Designed and developed a cross-platform mobile application using Xamarin.Forms</li>
+          <li>Implemented robust Web API services backed by SQL Server</li>
+          <li>Managed the full development lifecycle, including database design, API integration, and front-end UI creation</li>
+          <li>Deployed iOS and Android apps to their respective stores, handling submission and compliance</li>
+          <li>Integrated secure payment gateway functionality for in-app transactions</li>
+          <li>Collaborated closely with stakeholders to meet project requirements and delivery timelines</li>
+        </ul>
       </div>
+
+      <div class="project">
+        <p class="project-title"><a href="https://www.tenpath.com/index.html">Tenpath Solutions Pvt Ltd (Xamarin Developer)</a></p>
+        <p><b>Feb 2016 – July 2017</b></p>
+        <p>Developed mobile applications using Xamarin.iOS and Xamarin.Android, focusing on cross-platform compatibility and performance. Responsible for coding, debugging, and integrating features to meet project requirements. Ensured timely delivery by adhering to development schedules, collaborating with team members, and maintaining high standards in code quality, usability, and functionality throughout the project lifecycle.</p>
+        <ul>
+          <li>Developed mobile applications using Xamarin.iOS and Xamarin.Android with a focus on cross-platform compatibility and performance</li>
+          <li>Handled coding, debugging, and feature integration to meet project requirements</li>
+          <li>nsured timely delivery by strictly following development schedules</li>
+          <li>Collaborated effectively with team members for smooth project execution</li>
+          <li>Maintained high standards in code quality, usability, and overall functionality</li>
+          <li>Managed the complete project lifecycle from development to delivery</li>
+        </ul>
+      </div>
+
+      <div class="project">
+        <p class="project-title"><a href="https://technolabssoftware.com/">Technolabs Software Services Pvt Ltd (Software Engineer)</a></p>
+        <p><b>Sep 2013 – Jan 2016</b></p>
+        <p>Worked on web applications utilizing MVC, jQuery Mobile, Web API services, and SQL Server. Focused on designing, developing, and integrating components to ensure functionality and performance. Successfully delivered assigned tasks within project timelines while maintaining code quality, adhering to best practices, and collaborating with team members for efficient project execution.</p>
+        <ul>
+          <li>Developed web applications using MVC, jQuery Mobile, Web API services, and SQL Server</li>
+          <li>Designed and integrated application components to ensure optimal functionality and performance</li>
+          <li>Delivered assigned tasks successfully within strict project timelines</li>
+          <li>Maintained high code quality by following best practices and standards</li>
+          <li>Collaborated with team members to ensure efficient project execution and smooth workflow</li>
+        </ul>
+      </div>
+    </div>
 
     <div class="section">
       <h2>Projects</h2>
