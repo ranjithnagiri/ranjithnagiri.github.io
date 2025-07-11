@@ -161,8 +161,7 @@
         <p class="project-title">WordSynk Interpreter MOJ</p>
         <p>WordSynk Network MOJ is an app from thebigword, which allows language professionals to manage their services on the go! It uses best-in-class technology to provide notifications that alert you when you have new assignment opportunities 24/7/365. Within the app, you can view your bookings, receive and accept assignments and invoice for the assignments you deliver. WordSynk Network MOJ is the perfect tool to help you plan and manage your day.</p>
         <p><strong>Technologies : </strong>React Native, Web API - Micro Services, Sqlite</p>
-        <a href="https://play.google.com/store/apps/details?id=com.wordsynknetwork.moj">Android</a>
-        <a href="https://apps.apple.com/in/app/wordsynk-network-moj/id6479691310">iOS</a>
+        <p><a href="https://play.google.com/store/apps/details?id=com.wordsynknetwork.moj">Android</a> | <a href="https://apps.apple.com/in/app/wordsynk-network-moj/id6479691310">iOS</a></p>
       </div>
 
       <div class="project">
