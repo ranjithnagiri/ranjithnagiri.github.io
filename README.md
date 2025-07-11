@@ -156,6 +156,11 @@
         <p>TW CloudCruiser is a cloud-based platform that simplifies and improves cab booking operations. It offers streamlined scheduling, real-time tracking, and user-friendly management tools. Designed for efficiency and scalability, CloudCruiser enhances customer experience while optimizing resource usage for transport providers, making it ideal for modern mobility solutions.</p>
         <p><strong>Technologies : </strong>React Native, Firebase, Sqlite</p>
       </div>
+      <div class="project">
+        <p class="project-title">Cricket Millionaire</p>
+        <p>One of India’s newest leading skill based games. In Cricket Millionaire you will have the opportunity to use your skills, wits and knowledge of cricket to compete across our range of games and tournaments.</p>
+        <p><strong>Technologies : </strong>MAUI, Sqlite, Web API</p>
+      </div>
 
       <div class="project">
         <p class="project-title">WordSynk Interpreter MOJ</p>
