@@ -89,8 +89,22 @@
       <h2>Experience</h2>
 
       <div class="project">
-        <p class="project-title">[TW CloudCruiser](http://localhost:8081/#:~:text=Technical%20Lead,India%20Pvt%20Ltd)</p>
+        <h2>Technical Lead</h2>
+        <p class="project-title"><a href="https://techwave.net/">Techwave Consulting India Pvt Ltd</a></p>
+        <p>June 2019 - Present</p>
         <p>Developed mobile applications using React Native and Xamarin.Forms, ensuring successful deployment to both iOS and Android app stores. Actively interacted with clients to gather and understand requirements, translating them into functional solutions. Led the development team as a Technical Lead, overseeing implementation, resolving issues, and ensuring adherence to timelines. Maintained a strong focus on quality, performance, and scalability while managing the end-to-end development lifecycle, including planning, coding, testing, and deployment, to deliver high-quality solutions on schedule.</p>
+        <ul>
+        <li>Developed mobile applications using React Native and Xamarin.Forms</li>
+        <li>Deployed apps successfully to both iOS and Android app stores</li>
+        <li>Interacted with clients to gather and understand project requirements</li>
+        <li>Integrated CI/CD pipeline to automate build, testing, and deployment processes</li>
+        <li>Integrated the Sonar Qube for Code Quality</li>
+        <li>Led the development team as a Technical Lead</li>
+        <li>Ensured project timelines were met through effective planning and execution</li>
+        <li>Focused on delivering high-quality, scalable, and high-performance applications</li>
+        <li>Managed the entire development lifecycle: planning, coding, testing, and deployment</li>
+        <li>Best Employee of the Quarter - Q1 2020</li>
+      </ul>
       </div>
       </div>
 
