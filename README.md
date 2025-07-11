@@ -204,7 +204,12 @@
         <p><strong>Technologies : </strong>C#, MVC 4, JQuery, JavaScript, WCF, SQL Server, CSS, SVN</p>
       </div>
     </div>
-
+<div class="section">
+      <h2>Declaration</h2>
+  <div class="project">
+    <p>I consider myself familiar with above mentioned Aspects. I am also confident of my ability to work in a team. I hereby declare that the information furnished above is true to the best of my knowledge.</p>
+  </div>
+</div>
 
   </div>
 </body>
