@@ -208,6 +208,7 @@
       <h2>Declaration</h2>
   <div class="project">
     <p>I consider myself familiar with above mentioned Aspects. I am also confident of my ability to work in a team. I hereby declare that the information furnished above is true to the best of my knowledge.</p>
+    <p style="text-align: right;">Ranjith Kumar Nagiri</p>
   </div>
 </div>
 
