@@ -85,6 +85,14 @@
         <li>HTML, CSS, JavaScript, jQuery</li>
       </ul>
     </div>
+    <div class="section">
+      <h2>Experience</h2>
+
+      <div class="project">
+        <p class="project-title">[TW CloudCruiser](http://localhost:8081/#:~:text=Technical%20Lead,India%20Pvt%20Ltd)</p>
+        <p>Developed mobile applications using React Native and Xamarin.Forms, ensuring successful deployment to both iOS and Android app stores. Actively interacted with clients to gather and understand requirements, translating them into functional solutions. Led the development team as a Technical Lead, overseeing implementation, resolving issues, and ensuring adherence to timelines. Maintained a strong focus on quality, performance, and scalability while managing the end-to-end development lifecycle, including planning, coding, testing, and deployment, to deliver high-quality solutions on schedule.</p>
+      </div>
+      </div>
 
     <div class="section">
       <h2>Projects</h2>
