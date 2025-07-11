@@ -160,6 +160,7 @@
         <p class="project-title">Cricket Millionaire</p>
         <p>One of India’s newest leading skill based games. In Cricket Millionaire you will have the opportunity to use your skills, wits and knowledge of cricket to compete across our range of games and tournaments.</p>
         <p><strong>Technologies : </strong>MAUI, Sqlite, Web API</p>
+        <p><a href="https://play.google.com/store/apps/details?id=com.zinext.fantasycricketmillionaire">Android</a></p>
       </div>
 
       <div class="project">
