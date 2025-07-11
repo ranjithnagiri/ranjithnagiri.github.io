@@ -56,6 +56,16 @@
     <div class="section">
       <h2>Personal Summary</h2>
       <p>Passionate Mobile Developer with experience in building high-performance Android and iOS apps using React Native, Xamarin and MAUI. Skilled in creating intuitive UI, integrating APIs, and optimizing performance. Dedicated to delivering clean, maintainable code and seamless user experiences. Always eager to learn new technologies and contribute to innovative mobile solutions.</p>
+      <ul>
+        <li>Having 11+ years of IT Experience in Analysis, Design, Development, Bug Fixing, implementation of various applications</li>
+        <li>Having good knowledge in React Native, MAUI, Xamarin Forms</li>
+        <li>Proficient in ASP.Net, C#, MVC, ADO.Net and SQL Server</li>
+        <li>Ability to Creating Web API, Web Services, and consuming web services</li>
+        <li>Having very knowledge in Mobile Apps (Android, IOS and Windows Phone)</li>
+        <li>Extensively used HTML and Client-side scripting language (JavaScript & JQuery)</li>
+        <li>Having good knowledge in App Store and Play Store Publishing</li>
+        <li>Highly motivated, adaptive, and quick learner</li>
+      </ul>
     </div>
 
     <div class="section">
