@@ -51,11 +51,11 @@
   <div class="container">
     <h1>Ranjith Kumar Nagiri</h1>
     <p>Email: ranjithnagiri@gmail.com | Phone: +91-9390064000 | Location: Hyderabad, India</p>
-    <p>LinkedIn: [linkedin.com/in/ranjithnagiri](https://in.linkedin.com/in/ranjith-kumar-02937450)</p>
+    <p>LinkedIn: https://in.linkedin.com/in/ranjith-kumar-02937450</p>
 
     <div class="section">
       <h2>Personal Summary</h2>
-      <p>Experienced mobile and web application developer with expertise in React Native, Xamarin, and .NET technologies. Passionate about building scalable, user-friendly applications and leading development teams to successful project deliveries.</p>
+      <p>Passionate Mobile Developer with experience in building high-performance Android and iOS apps using React Native, Xamarin and MAUI. Skilled in creating intuitive UI, integrating APIs, and optimizing performance. Dedicated to delivering clean, maintainable code and seamless user experiences. Always eager to learn new technologies and contribute to innovative mobile solutions.</p>
     </div>
 
     <div class="section">
