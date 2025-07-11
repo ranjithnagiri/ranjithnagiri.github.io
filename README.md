@@ -1,8 +1,6 @@
 # Ranjith Kumar Nagiri
-<!DOCTYPE html>
 <html>
 <head>
-  <title>My GitHub Profile Website</title>
 </head>
 <body>
   <h1>Hello, I'm Your Name!</h1>
