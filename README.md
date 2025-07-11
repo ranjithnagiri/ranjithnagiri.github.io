@@ -59,8 +59,8 @@
         <li>Having 11+ years of IT Experience in Analysis, Design, Development, Bug Fixing, implementation of various applications</li>
         <li>Having good knowledge in React Native, MAUI, Xamarin Forms</li>
         <li>Proficient in ASP.Net, C#, MVC, ADO.Net and SQL Server</li>
-        <li>Ability to Creating Web API, Web Services, and consuming web services</li>
-        <li>Having very knowledge in Mobile Apps (Android, IOS and Windows Phone)</li>
+        <li>Ability to create Web API, Web Services, and consume web services</li>
+        <li>Having very knowledge in Mobile Apps (Android, IOS, and Windows Phone)</li>
         <li>Extensively used HTML and Client-side scripting language (JavaScript & JQuery)</li>
         <li>Having good knowledge in App Store and Play Store Publishing</li>
         <li>Highly motivated, adaptive, and quick learner</li>
@@ -123,11 +123,11 @@
       <div class="project">
         <p class="project-title"><a href="https://www.tenpath.com/index.html">Tenpath Solutions Pvt Ltd (Xamarin Developer)</a></p>
         <p><b>Feb 2016 – July 2017</b></p>
-        <p>Developed mobile applications using Xamarin.iOS and Xamarin.Android, focusing on cross-platform compatibility and performance. Responsible for coding, debugging, and integrating features to meet project requirements. Ensured timely delivery by adhering to development schedules, collaborating with team members, and maintaining high standards in code quality, usability, and functionality throughout the project lifecycle.</p>
+        <p>Developed mobile applications using Xamarin.iOS and Xamarin.Android focuses on cross-platform compatibility and performance. Responsible for coding, debugging, and integrating features to meet project requirements. Ensured timely delivery by adhering to development schedules, collaborating with team members, and maintaining high standards in code quality, usability, and functionality throughout the project lifecycle.</p>
         <ul>
           <li>Developed mobile applications using Xamarin.iOS and Xamarin.Android with a focus on cross-platform compatibility and performance</li>
           <li>Handled coding, debugging, and feature integration to meet project requirements</li>
-          <li>nsured timely delivery by strictly following development schedules</li>
+          <li>Ensured timely delivery by strictly following development schedules</li>
           <li>Collaborated effectively with team members for smooth project execution</li>
           <li>Maintained high standards in code quality, usability, and overall functionality</li>
           <li>Managed the complete project lifecycle from development to delivery</li>
@@ -180,17 +180,17 @@
       </div>
       <div class="project">
         <p class="project-title">Phillips King</p>
-        <p>Phillips King provides widest range of tobacco products with its service widened all over the world, originated in US. With its service available to e- Commerce it has explored its possibilities to bring up m-Commerce.</p>
+        <p>Phillips King provides the widest range of tobacco products, with its service extended all over the world, originating in the US. With its service available to e- Commerce it has explored its possibilities to bring up m-Commerce.</p>
         <p><strong>Technologies : </strong>Xamarin IOS, Xamarin Android, Sqlite, Web API</p>
       </div>
       <div class="project">
         <p class="project-title">Omni Retailer - FMCG (Mobile and Tablet App)</p>
-        <p>Omni Retailer - FMCG is comprehensive retail suite with special focus on Retail Mobility. Our product Omni Retailer is combination of Cloud Server and Mobile Technologies. The Retail Mobility solution is conceptualized and developed with Mobile as the device for end user. The user can be Sales Executive, Billing Person at POS, Helper within a store, Store Manager, Inventory Manager or Purchase Officer.</p>
+        <p>Omni Retailer - FMCG is a comprehensive retail suite with a special focus on Retail Mobility. Our product Omni Retailer is combination of Cloud Server and Mobile Technologies. The Retail Mobility solution is conceptualized and developed with Mobile as the device for end user. The user can be Sales Executive, Billing Person at POS, Helper within a store, Store Manager, Inventory Manager or Purchase Officer.</p>
         <p><strong>Technologies : </strong>Xamarin Forms, C#, SVN</p>
       </div>
       <div class="project">
         <p class="project-title">Echemist</p>
-        <p>EChemist provides widest range of Pharmacy and cosmetic products with its service widened all over the world, originated in UK. With its service available to e- Commerce it has explored its possibilities to bring up m-Commerce</p>
+        <p>EChemist provides the widest range of Pharmacy and cosmetic products, with its service extended all over the world, originating in the UK. With its service available to e-commerce, it has explored its possibilities to bring up m-Commerce</p>
         <p><strong>Technologies : </strong>C#, MVC 4, JQuery, JavaScript, WCF, SQL Server, CSS, SVN</p>
       </div>
     </div>
