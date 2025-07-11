@@ -89,8 +89,7 @@
       <h2>Experience</h2>
 
       <div class="project">
-        <h2>Technical Lead</h2>
-        <p class="project-title"><a href="https://techwave.net/">Techwave Consulting India Pvt Ltd</a></p>
+        <p class="project-title"><a href="https://techwave.net/">Techwave Consulting India Pvt Ltd (Technical Lead)</a></p>
         <p>June 2019 - Present</p>
         <p>Developed mobile applications using React Native and Xamarin.Forms, ensuring successful deployment to both iOS and Android app stores. Actively interacted with clients to gather and understand requirements, translating them into functional solutions. Led the development team as a Technical Lead, overseeing implementation, resolving issues, and ensuring adherence to timelines. Maintained a strong focus on quality, performance, and scalability while managing the end-to-end development lifecycle, including planning, coding, testing, and deployment, to deliver high-quality solutions on schedule.</p>
         <ul>
