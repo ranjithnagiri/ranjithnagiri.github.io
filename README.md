@@ -49,9 +49,9 @@
 </head>
 <body>
   <div class="container">
-    <h1>John Doe</h1>
-    <p>Email: johndoe@example.com | Phone: +91-9876543210 | Location: Bengaluru, India</p>
-    <p>LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe</p>
+    <h1>Ranjith Kumar Nagiri</h1>
+    <p>Email: ranjithnagiri@gmail.com | Phone: +91-9390064000 | Location: Hyderabad, India</p>
+    <p>LinkedIn: [linkedin.com/in/ranjithnagiri](https://in.linkedin.com/in/ranjith-kumar-02937450)</p>
 
     <div class="section">
       <h2>Personal Summary</h2>
