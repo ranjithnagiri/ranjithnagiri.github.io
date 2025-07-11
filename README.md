@@ -124,19 +124,6 @@
       <p><strong>B.Sc - MSCS (Maths, Statistics, Computer Science)</strong>, Osmania University, 2006–2009</p>
     </div>
 
-    <div class="section">
-      <h2>Experience</h2>
-      <ul>
-        <li>Having 11+ years of IT Experience in Analysis, Design, Development, Bug Fixing, implementation of various applications</li>
-        <li>Having good knowledge in React Native, MAUI, Xamarin Forms</li>
-        <li>Proficient in ASP.Net, C#, MVC, ADO.Net and SQL Server</li>
-        <li>Ability to Creating Web API, Web Services, and consuming web services</li>
-        <li>Having very knowledge in Mobile Apps (Android, IOS and Windows Phone)</li>
-        <li>Extensively used HTML and Client-side scripting language (JavaScript & JQuery)</li>
-        <li>Having good knowledge in App Store and Play Store Publishing</li>
-        <li>Highly motivated, adaptive, and quick learner</li>
-      </ul>
-    </div>
   </div>
 </body>
 </html>
