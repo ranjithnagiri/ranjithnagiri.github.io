@@ -50,7 +50,7 @@
   <div class="container">
     <h1>Ranjith Kumar Nagiri</h1>
     <p>Email: <a href="ranjithnagiri@gmail.com">ranjithnagiri@gmail.com</a> | Phone: <a href="+91-9390064000">+91-9390064000</a> | Location: Hyderabad, India</p>
-    <p>LinkedIn: <a href="https://in.linkedin.com/in/ranjith-kumar-02937450">https://in.linkedin.com/in/ranjith-kumar-02937450</a></p>
+    <p>LinkedIn: <a href="https://in.linkedin.com/in/ranjith-kumar-02937450">https://in.linkedin.com/in/ranjith</a></p>
 
     <div class="section">
       <h2>Personal Summary</h2>
