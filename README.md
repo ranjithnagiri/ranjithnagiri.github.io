@@ -55,16 +55,17 @@
 
     <div class="section">
       <h2>Personal Summary</h2>
-      <p>Passionate Mobile Developer with experience in building high-performance Android and iOS apps using React Native, Xamarin and MAUI. Skilled in creating intuitive UI, integrating APIs, and optimizing performance. Dedicated to delivering clean, maintainable code and seamless user experiences. Always eager to learn new technologies and contribute to innovative mobile solutions.</p>
+      <p>Passionate Mobile Developer with extensive experience in building high-performance Android and iOS applications, specializing in React Native along with Xamarin and .NET MAUI. Skilled in developing intuitive UIs, integrating APIs, and optimizing performance for seamless user experiences. Dedicated to writing clean, maintainable, and scalable code, with a continuous drive to learn emerging technologies and contribute to innovative mobile solutions.</p>
       <ul>
-        <li>Having 11+ years of IT Experience in Analysis, Design, Development, Bug Fixing, implementation of various applications</li>
-        <li>Having good knowledge in React Native, MAUI, Xamarin Forms</li>
-        <li>Proficient in ASP.Net, C#, MVC, ADO.Net and SQL Server</li>
-        <li>Ability to create Web API, Web Services, and consume web services</li>
-        <li>Having very knowledge in Mobile Apps (Android, IOS, and Windows Phone)</li>
-        <li>Extensively used HTML and Client-side scripting language (JavaScript & JQuery)</li>
-        <li>Having good knowledge in App Store and Play Store Publishing</li>
-        <li>Highly motivated, adaptive, and quick learner</li>
+        <li>11+ years of IT experience in Analysis, Design, Development, Bug Fixing, and Implementation of various applications.</li>
+        <li>Strong expertise in React Native app development using TypeScript and JavaScript, focusing on cross-platform architecture and native-like performance.</li>
+        <li>Hands-on experience with .NET MAUI and Xamarin.Forms for multi-platform app development.</li>
+        <li>Proficient in ASP.NET, C#, MVC, ADO.NET, and SQL Server for backend and API development.</li>
+        <li>Experienced in creating and consuming Web APIs and Web Services for seamless front-end integration.</li>
+        <li>Solid understanding of mobile application lifecycle for Android, iOS, and Windows platforms.</li>
+        <li>Experienced with HTML, JavaScript, and jQuery for client-side development and responsive design.</li>
+        <li>Skilled in publishing apps to Google Play Store and Apple App Store with proper deployment practices.</li>
+        <li>Highly motivated, adaptive, and quick learner, passionate about adopting new frameworks and technologies like React Native to enhance mobile app performance and maintainability.</li>
       </ul>
     </div>
 
