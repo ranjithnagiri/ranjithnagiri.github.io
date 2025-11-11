@@ -169,14 +169,14 @@
         <p class="project-title">WordSynk Interpreter MOJ</p>
         <p>WordSynk Network MOJ is an app from thebigword, which allows language professionals to manage their services on the go! It uses best-in-class technology to provide notifications that alert you when you have new assignment opportunities 24/7/365. Within the app, you can view your bookings, receive and accept assignments and invoice for the assignments you deliver. WordSynk Network MOJ is the perfect tool to help you plan and manage your day.</p>
         <p><strong>Technologies : </strong>React Native, Web API - Micro Services, Sqlite</p>
-        <p><a href="https://play.google.com/store/apps/details?id=com.wordsynk.network&pli=1">Android</a> | <a href="https://apps.apple.com/in/app/wordsynk-network-moj/id6479691310">iOS</a></p>
+        <p><a href="https://play.google.com/store/apps/details?id=com.wordsynknetwork.moj">Android</a> | <a href="https://apps.apple.com/in/app/wordsynk-network-moj/id6479691310">iOS</a></p>
       </div>
 
       <div class="project">
         <p class="project-title">WordSynk Network</p>
         <p>WordSynk Network is an app from thebigword, which allows language professionals to manage their services on the go! It uses best-in-class technology to provide notifications that alert you when you have new assignment opportunities 24/7/365. Within the app, you can view your bookings, receive and accept assignments and invoice for the assignments you deliver. WordSynk Network is the perfect tool to help you plan and manage your day.</p>
         <p><strong>Technologies : </strong>Xamarin Forms, Web API, Sqlite</p>
-        <p><a href="https://play.google.com/store/apps/details?id=com.wordsynknetwork.moj">Android</a> | <a href="https://apps.apple.com/in/app/wordsynk-network/id1612233622">iOS</a></p>
+        <p><a href="https://play.google.com/store/apps/details?id=com.wordsynk.network">Android</a> | <a href="https://apps.apple.com/in/app/wordsynk-network/id1612233622">iOS</a></p>
       </div>
       <div class="project">
         <p class="project-title">WordSynk TI</p>
